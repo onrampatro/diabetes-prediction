@@ -49,3 +49,8 @@ This project focuses on developing a machine learning model to predict the likel
 ## Outcome
 - Provides a data-driven approach for identifying individuals at risk of diabetes
 - Can be extended into a clinical decision support system for early diagnosis
+
+## Project Presentation
+
+Full slide presentation:
+👉 https://drive.google.com/file/d/132YXL-csoLawCJWJGNTuS5PrUFiytOJ5/view?usp=sharing
